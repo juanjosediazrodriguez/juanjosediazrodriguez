@@ -15,6 +15,7 @@ free-text descriptions, and writes back a validated, structured output.
 ---
 
 **Working with:** SQL · Python · C++ · PostgreSQL · MySQL · MongoDB · Git · Docker
+
 **Currently learning:** artificial intelligence (rational agents, search
 algorithms), distributed databases (CAP, NoSQL), query optimization and
 workflow automation.
