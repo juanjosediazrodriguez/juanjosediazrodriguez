@@ -18,6 +18,13 @@ Makers Fellow 2026, building AI-native applications with LLMs, structured output
 
 ---
 
+## Tech Stack
+
+[![Tech stack](https://skillicons.dev/icons?i=postgres,mongodb,python,cpp,java,django,git,docker,linux&perline=9)](https://skillicons.dev)
+
+*Deepest in SQL and relational modeling.* Also working with dimensional modeling, REST APIs, LLM APIs, agents, RAG and embeddings.
+
+
 ## Current Focus
 
 - **Query optimization**
