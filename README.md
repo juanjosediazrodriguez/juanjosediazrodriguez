@@ -10,9 +10,10 @@ undergrad students through queries, schema design and course projects.
 
 🤖 **Makers Fellow** · 2026
 
-Building AI-native systems rather than one-off prompts — currently a task
-prioritization flow that reads a Notion database, infers task difficulty from
-free-text descriptions, and writes back a validated, structured output.
+Part of a joint program by Makers Fellowship and Vélez Reyes+ for young builders across
+Latin America. It runs in modules, from mindset and soft skills to designing and shipping
+AI-native products — LLM-based systems, structured outputs and workflow automation, built
+end to end rather than as isolated experiments.
 
 ---
 
