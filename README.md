@@ -14,10 +14,10 @@ free-text descriptions, and writes back a validated, structured output.
 
 ---
 
-**Working with:** SQL · Python · C++ · PostgreSQL · MySQL · Git · Docker
-**Currently learning:** distributed databases (CAP, NoSQL), query optimization
-and workflow automation with n8n.
-
+**Working with:** SQL · Python · C++ · PostgreSQL · MySQL · MongoDB · Git · Docker
+**Currently learning:** artificial intelligence (rational agents, search
+algorithms), distributed databases (CAP, NoSQL), query optimization and
+workflow automation.
 
 [LinkedIn](https://www.linkedin.com/in/juan-josé-diaz-rodríguez-aaa63928a/) · jjdiazr@eafit.edu.co
 
