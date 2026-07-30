@@ -8,21 +8,11 @@ Makers Fellow 2026, building AI-native applications with LLMs, structured output
 
 ## Tech Stack
 
-*Deepest in SQL and relational modeling.*
-
-- **Data** — PostgreSQL · SQL · dimensional modeling · MongoDB
-- **Languages** — Python · C++ · Java
-- **Backend** — Django · REST APIs
-- **AI** — LLM APIs · agents · RAG · embeddings
-- **Tools** — Git · Docker · Linux
-
----
-
-## Tech Stack
-
 [![Tech stack](https://skillicons.dev/icons?i=postgres,mongodb,python,cpp,java,django,git,docker,linux&perline=9)](https://skillicons.dev)
 
 *Deepest in SQL and relational modeling.* Also working with dimensional modeling, REST APIs, LLM APIs, agents, RAG and embeddings.
+
+---
 
 
 ## Current Focus
