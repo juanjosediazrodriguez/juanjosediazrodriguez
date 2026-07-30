@@ -18,5 +18,5 @@ free-text descriptions, and writes back a validated, structured output.
 **Currently learning:** distributed databases (CAP, NoSQL), query optimization
 and workflow automation with n8n.
 
-[LinkedIn](https://www.linkedin.com/in/juan-josé-diaz-rodríguez-aaa63928a/) · juanjosediazrodriguez15@gmail.com
+[LinkedIn](https://www.linkedin.com/in/juan-josé-diaz-rodríguez-aaa63928a/) · jjdiazr@eafit.edu.co
 
