@@ -1,6 +1,6 @@
 # Juan José Díaz Rodríguez
 
-Systems Engineering student at **EAFIT University** (Medellín, Colombia), focused on **Data Engineering, backend development and AI-powered automation**.
+Systems Engineering student at **EAFIT University** (Medellín, Colombia), interested in building intelligent systems through **Data Engineering, Artificial Intelligence and scalable backend technologies**.
 
 Vélez Reyes+ scholarship recipient.
 
@@ -23,23 +23,23 @@ Supported undergraduate students through their first serious contact with relati
 
 Part of a joint program by Makers Fellowship and Vélez Reyes+ for young builders across Latin America.
 
-Built AI-native applications using LLMs, structured outputs and workflow automation, with an emphasis on designing production-oriented systems rather than isolated prototypes.
+Built AI-native applications using LLMs, structured outputs and intelligent agents, focusing on designing production-oriented systems rather than isolated prototypes.
 
 ---
 
 ## 💻 Tech Stack
 
 **Languages**  
-SQL · Python · Java · C++
+Python · SQL · Java · C++
 
-**Databases**  
+**Data**  
 PostgreSQL · MySQL · MongoDB
 
 **Backend**  
 Django · REST APIs
 
-**Automation & AI**  
-n8n · LLM Workflows · AI Agents
+**Artificial Intelligence**  
+LLMs · AI Agents · RAG · Prompt Engineering
 
 **Tools**  
 Git · Docker · Linux
@@ -49,12 +49,15 @@ Git · Docker · Linux
 ## 📚 Currently Learning
 
 - Distributed Databases
+- Data Warehousing
+- Data Pipelines & ETL
 - Query Optimization
-- AI Agents & LLM Workflows
-- Apache Spark
+- Artificial Intelligence & Agentic Systems
 
 ---
 
-📫 **LinkedIn:** https://www.linkedin.com/in/juan-josé-diaz-rodríguez-aaa63928a/
+📫 **LinkedIn**  
+https://www.linkedin.com/in/juan-josé-diaz-rodríguez-aaa63928a/
 
-✉️ **Email:** jjdiazr@eafit.edu.co
+✉️ **Email**  
+jjdiazr@eafit.edu.co
