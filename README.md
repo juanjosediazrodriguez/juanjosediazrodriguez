@@ -1,16 +1,22 @@
-## Hi there 👋
+### Juan José Díaz Rodríguez
 
-<!--
-**juanjosediazrodriguez/juanjosediazrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student at **EAFIT University** (Medellín, Colombia).
+Focused on data engineering. Vélez Reyes+ scholarship recipient.
 
-Here are some ideas to get you started:
+🎓 **Teaching Assistant — Data Management Systems**, EAFIT · Jul 2025 – Jun 2026
+Ran lab sessions on SQL, relational modeling and database design, guiding
+undergrad students through queries, schema design and course projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 **Makers Fellow** · 2026
+Building AI-native systems rather than one-off prompts — currently a task
+prioritization flow that reads a Notion database, infers task difficulty from
+free-text descriptions, and writes back a validated, structured output.
+
+---
+
+**Working with:** SQL · Python · C++ · PostgreSQL · MySQL · Git · Docker
+**Currently learning:** distributed databases (CAP, NoSQL), query optimization
+and workflow automation with n8n.
+
+[LinkedIn](https://www.linkedin.com/in/juan-josé-diaz-rodríguez-aaa63928a/) · juanjosediazrodriguez15@gmail.com
+
