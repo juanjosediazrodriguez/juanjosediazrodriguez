@@ -25,5 +25,4 @@ Systems Engineering student at EAFIT University (Medellín, Colombia), aspiring 
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-diaz-rodr%C3%ADguez-aaa63928a/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:jjdiazr@eafit.edu.co)
+[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-diaz-rodr%C3%ADguez-aaa63928a/) · [jjdiazr@eafit.edu.co](mailto:jjdiazr@eafit.edu.co)
