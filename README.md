@@ -1,8 +1,6 @@
 # Juan José Díaz Rodríguez
 
-Systems Engineering student at **EAFIT University** (Medellín, Colombia), working on **data engineering and AI**. I spent a year as teaching assistant for Data Management Systems, teaching SQL, relational modeling and normalization to two cohorts — so I tend to start with the schema and the query plan.
-
-Makers Fellow 2026, building AI-native applications with LLMs, structured outputs and agents. Vélez Reyes+ scholarship recipient.
+Systems Engineering student at EAFIT University (Medellín, Colombia). Interested in data engineering, backend development and AI. Building projects with Python, SQL and modern data tools.
 
 ---
 
