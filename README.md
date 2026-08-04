@@ -1,6 +1,6 @@
 # Juan José Díaz Rodríguez
 
-Systems Engineering student at EAFIT University (Medellín, Colombia). Interested in data engineering, backend development and AI. Building projects with Python, SQL and modern data tools.
+Systems Engineering student at EAFIT University (Medellín, Colombia), aspiring Data Engineer with a strong interest in backend development and AI. Currently building projects around data pipelines, databases, distributed systems and intelligent applications while continuously exploring modern data technologies.
 
 ---
 
