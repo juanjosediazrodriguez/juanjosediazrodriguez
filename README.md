@@ -7,8 +7,8 @@ Systems Engineering student at EAFIT University (Medellín, Colombia), aspiring 
 ## Tech Stack
 
 [![Tech
-stack](https://skillicons.dev/icons?i=python,ts,react,nextjs,postgres,supabase,tensorflow,sklearn,docker,git&perline=1
-0)](https://skillicons.dev)
+  stack](https://skillicons.dev/icons?i=python,ts,react,nextjs,postgres,supabase,tensorflow,sklearn,docker,git&perline=1
+  0)](https://skillicons.dev)
 
 *Deepest in SQL and relational modeling.* Also working with dimensional modeling, Row Level Security, LLM APIs and
 transfer learning.
