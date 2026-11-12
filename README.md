@@ -17,11 +17,6 @@
   - Datos para IA: ingesta para RAG y evaluación de la recuperación
   - Fundamentos de la nube (AWS)
 
-  ## Proyectos
-
-  - [PC-Assembly-RAG](https://github.com/juanjosediazrodriguez/PC-Assembly-RAG): asistente de ensamble de computadores con reglas de compatibilidad, grafos y RAG con ChromaDB. En desarrollo, en equipo de 4.
-  - [st1630-252](https://github.com/juanjosediazrodriguez/st1630-252): laboratorios de pipelines por capas con Spark, Delta Lake y AWS (fork del repositorio del curso).
-  - [Introduction_AI](https://github.com/juanjosediazrodriguez/Introduction_AI): notebooks del curso de IA, con búsqueda, optimización, ML clásico y redes neuronales.
 
   ## Contacto
 
