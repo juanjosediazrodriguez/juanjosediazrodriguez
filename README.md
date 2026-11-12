@@ -7,7 +7,7 @@
 
   <img src="https://skillicons.dev/icons?i=py,postgres,kafka,aws,git" />
 
-  *Mi base es SQL y el modelado relacional. También trabajo con modelado dimensional, bases NoSQL (MongoDB, Neo4j, ChromaDB) y RAG.*
+  *Mi base es SQL y el modelado relacional. También trabajo con Apache Spark, modelado dimensional, bases NoSQL (MongoDB, Neo4j, ChromaDB) y RAG.*
 
   ## En lo que me estoy enfocando
 
