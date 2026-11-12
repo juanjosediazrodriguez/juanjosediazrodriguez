@@ -1,29 +1,28 @@
 # Juan José Díaz Rodríguez
 
-Systems Engineering student at EAFIT University (Medellín, Colombia), aspiring AI Engineer. I build applications on top of existing AI models — LLM assistants, document Q&A and agents — backed by solid backend and data foundations: SQL, APIs and pipelines. I care about proving a system works with numbers, not just getting it to run.
+  Estudiante de Ingeniería de Sistemas en la Universidad EAFIT (Medellín, Colombia), con enfoque en **ingeniería de datos** y la IA como diferenciador. Me interesa construir pipelines y sistemas de datos
+  confiables, y llevar esos datos hasta aplicaciones con IA, como asistentes que responden sobre documentos. Me importa demostrar con números que un sistema funciona, no solo que corra.
 
----
+  ## Herramientas
 
-## Tech Stack
+  <img src="https://skillicons.dev/icons?i=py,postgres,spark,kafka,aws,git" />
 
-[![Techstack](https://skillicons.dev/icons?i=python,ts,react,nextjs,postgres,supabase,tensorflow,sklearn,docker,git&perline=10)](https://skillicons.dev)
+  *Mi base es SQL y el modelado relacional. También trabajo con modelado dimensional, bases NoSQL (MongoDB, Neo4j, ChromaDB) y RAG.*
 
-*Deepest in SQL and relational modeling.* Also working with dimensional modeling, Row Level Security, LLM APIs and
-transfer learning.
+  ## En lo que me estoy enfocando
 
----
+  - Pipelines de datos y ETL, con capas bronce, plata y oro
+  - Modelado dimensional y almacenes de datos
+  - Bases de datos distribuidas y optimización de consultas
+  - Datos para IA: ingesta para RAG y evaluación de la recuperación
+  - Fundamentos de la nube (AWS)
 
+  ## Proyectos
 
-## Current Focus
+  - [PC-Assembly-RAG](https://github.com/juanjosediazrodriguez/PC-Assembly-RAG): asistente de ensamble de computadores con reglas de compatibilidad, grafos y RAG con ChromaDB. En desarrollo, en equipo de 4.
+  - [st1630-252](https://github.com/juanjosediazrodriguez/st1630-252): laboratorios de pipelines por capas con Spark, Delta Lake y AWS (fork del repositorio del curso).
+  - [Introduction_AI](https://github.com/juanjosediazrodriguez/Introduction_AI): notebooks del curso de IA, con búsqueda, optimización, ML clásico y redes neuronales.
 
-- **Query optimization**
-- **Distributed databases**
-- **Data warehousing and ETL**
-- **Data-intensive systems**
-- **Agentic systems** — LLM agents with tools, structured outputs and retrieval
+  ## Contacto
 
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-diaz-rodr%C3%ADguez-aaa63928a/) · [jjdiazr@eafit.edu.co](mailto:jjdiazr@eafit.edu.co)
+  [LinkedIn](https://www.linkedin.com/in/juan-josé-diaz-rodríguez-aaa63928a) · jjdiazr@eafit.edu.co
